@@ -13,7 +13,7 @@ Herramienta de línea de comandos (CLI) desarrollada en Node.js que interactúa 
 ## 🚀 Instalación y Puesta en Marcha
 
 1. Clonar el repositorio:
-    git clone https://github.com/tu-usuario/preentrega-node.git
+    git clone https://github.com/SayavedraLB/preentrega-node.git
 
 2. Ingresar a la carpeta del proyecto:
     cd preentrega-node
