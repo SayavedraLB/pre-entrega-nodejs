@@ -1,0 +1,13 @@
+{
+  "name": "preentrega-node",
+  "version": "1.0.0",
+  "description": "Pre-entrega de proyecto Node.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
